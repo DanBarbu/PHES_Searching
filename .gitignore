@@ -1,0 +1,10 @@
+input/*
+!input/countries
+output
+debug
+driver_files
+processing_files
+*.o
+bin
+!bin/start_drivers.sh
+.vscode
